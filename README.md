@@ -1,2 +1,1 @@
-# goit-react-hw-07
- 
+Contacts App, free for use!
